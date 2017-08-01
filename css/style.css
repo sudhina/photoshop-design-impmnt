@@ -1,0 +1,157 @@
+body {
+	font: 15px/1.5 Arial,Helvetica,sans-serif;
+	padding:0;
+	margin:0;
+	background-color:#f4f4f4;
+	 }
+.container{
+	     width:70%;
+		 margin:auto;
+		 overflow:hidden;
+
+		   }
+header{
+	color:#f4f4f4;
+	height:5px;
+	background-color:#adcc00;
+	padding-top:0px;
+	min-height:70px;
+	margin-top:0;
+	border-bottom:#83847f 2px ridge;
+	background-image:linear-gradient(#bad900,#98b600,#b6d400,#98b600);
+}
+#firstbar h1{
+	font:bold 26px HelveticaNeueLT;
+	text-align: center;
+	padding-top:5px;
+	padding-right:55px;
+color: #668507;
+} 
+#text {
+	font:bold 10px HelveticaNeueLT;
+	  }
+#text1{
+	color:#ffffff;
+	text-decoration:none;
+	margin-right:10px;
+	margin-top:4px;
+	margin-right:5px;
+	 }
+	 header a{
+	 font: bold 12px Arial;
+	 color: black;
+	 text-decoration:none;
+
+	 }
+header ul
+{
+	 margin:0;
+	 padding:0;
+}
+header li{
+	display:inline;
+	padding:0 20px 0 20px;
+	margin-top:10;
+
+	
+	  }
+
+#secondbar img
+{
+	float:left;
+}
+ header nav{
+		float:right;
+		margin-top:4px;
+		margin-right:5px;
+		    }
+section{
+	background-color:#523d2b;
+	height:50px;
+	min-height:90px;
+	padding-top:30px; 
+	padding-bottom:300px;
+	background-image:linear-gradient( #4f3b2a,#443224,#3d2d21,#3c2d20);
+
+	 }
+
+#rect h3{
+		font: bold 18px Arial;
+		color:#ffffff;
+		margin-left: 10px;
+		padding-bottom:20px;
+		padding-left:0px;
+		}
+#rect  img{
+	  float:right;
+	  padding-top:10px;
+	 		  }
+#backrect .box{
+	float: left;
+	display: inline;
+	margin:10px;
+				}
+form
+  {
+  	float: right;
+  	margin-left:10px;
+  }
+ .backimg img{
+  	margin-bottom:50px;
+  }
+  #inner_rect{
+	background-color:#1f1006;
+	min-height:100px;
+	padding:100px 10px 50px 100px;
+	margin-top:0;
+	border-bottom: 1px #a78971 solid;
+	
+	}
+	#box1{
+		float: left;
+		display: inline-block;
+	}
+	#box1 img,#box1 h3{
+		margin:0px;
+		padding:0px;
+	}
+	#box2{
+		float:left;
+		display: inline-block;
+		}
+		#box2 img,#box2 h3
+		{
+		margin:0px;
+		padding:0px;
+		}
+
+	#box3{
+		float:left;
+		}
+	#box3 img,#box3 h3
+	{
+		margin:0px;
+		padding:0px;
+	}
+#lastsectn{
+	color: #ffffff;
+	margin-bottom:10px; 
+		}
+#lastsectn img{
+	float:right;
+	display: inline;
+	}
+aside #fourth {
+	display: inline-block;
+	float: left;
+	width:40%;
+ 
+}
+aside #image {
+	float: right;
+	margin-left:20px;
+	padding: 0;
+		}
+#fifth{
+	background-color:#351f0d;
+}
